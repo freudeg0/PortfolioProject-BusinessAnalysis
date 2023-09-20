@@ -10,6 +10,8 @@ Harnessing the power of information to make informed decisions and leveraging va
 
 -PowerBI: Data preprocessing,DAX measures,Power Query,Visualization
 
--Excel: Forecasting,RFM Segmentation
+-Excel: Forecasting,RFM Segmentation,PivotTables,Vlookup
+
+
 
 
